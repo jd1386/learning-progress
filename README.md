@@ -10,7 +10,12 @@
 2. **CSS**
 
    1. Dive into Front-End CSS Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
+
    2. CSS Intro [https://www.pluralsight.com/courses/css-intro](https://www.pluralsight.com/courses/css-intro)
+
+   3. 한 걸음 더 CSS: 코딩가나다 [https://programmers.co.kr/learn/courses/4521](https://programmers.co.kr/learn/courses/4521)
+
+      
 
    
 
@@ -52,6 +57,10 @@
      5. React Fundamentals [https://tylermcginnis.com/courses/react-fundamentals-udacity/](https://tylermcginnis.com/courses/react-fundamentals-udacity/)
 
      6. React Native [https://tylermcginnis.com/courses/react-native-udacity/](https://tylermcginnis.com/courses/react-native-udacity/)
+
+     7. ReactJS로 웹서비스 만들기 [https://programmers.co.kr/learn/courses/944](https://programmers.co.kr/learn/courses/944)
+
+     8. React Native로 날씨앱 만들기 [https://programmers.co.kr/learn/courses/1016](https://programmers.co.kr/learn/courses/1016)
 
         
 
