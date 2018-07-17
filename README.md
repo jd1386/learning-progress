@@ -3,7 +3,7 @@
 1. **HTML**
 
    1. ~~Learn HTML [https://www.codecademy.com/learn/learn-html](https://www.codecademy.com/learn/learn-html)~~
-   2. Dive into Front-End, HTML Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
+   2. ~~Dive into Front-End, HTML Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)~~
 
    
 
@@ -58,10 +58,7 @@
   6. **Node.js**
 
        1. The Node.js Master Class [https://pirple.thinkific.com/courses/the-nodejs-master-class](https://pirple.thinkific.com/courses/the-nodejs-master-class)
-
        2. Learn Node-SQLite [https://www.codecademy.com/learn/learn-node-sqlite](https://www.codecademy.com/learn/learn-node-sqlite)
-
-          
 
   7. **Express**
 
