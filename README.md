@@ -9,13 +9,15 @@
 
 2. **CSS**
 
-   1. Dive into Front-End CSS Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
+   1. Learn CSS [https://www.codecademy.com/learn/learn-css](https://www.codecademy.com/learn/learn-css)
 
-   2. CSS Intro [https://www.pluralsight.com/courses/css-intro](https://www.pluralsight.com/courses/css-intro)
+   2. Dive into Front-End CSS Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
 
-   3. 한 걸음 더 CSS: 코딩가나다 [https://programmers.co.kr/learn/courses/4521](https://programmers.co.kr/learn/courses/4521)
+   3. CSS Intro [https://www.pluralsight.com/courses/css-intro](https://www.pluralsight.com/courses/css-intro)
 
-      
+   4. 한 걸음 더 CSS: 코딩가나다 [https://programmers.co.kr/learn/courses/4521](https://programmers.co.kr/learn/courses/4521)
+
+         
 
    
 
