@@ -21,7 +21,7 @@
 
 3. **jQuery**
 
-   1. Introduction to jQuery [https://www.codecademy.com/learn/learn-jquery](https://www.codecademy.com/learn/learn-jquery)
+   1. ~~Introduction to jQuery [https://www.codecademy.com/learn/learn-jquery](https://www.codecademy.com/learn/learn-jquery)~~
    2. Dive into Front-End jQuery Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
    3. Intro to jQuery [https://www.udacity.com/course/intro-to-jquery--ud245](https://www.udacity.com/course/intro-to-jquery--ud245)
      4. Javascript, jQuery, and JSON [https://www.coursera.org/learn/javascript-jquery-json](https://www.coursera.org/learn/javascript-jquery-json)
@@ -74,4 +74,4 @@
        1. Learn Express [https://www.codecademy.com/learn/learn-express](https://www.codecademy.com/learn/learn-express)
        2. Build Web APIs from Scratch [https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch](https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch)
 
-     3. Node.js Express MongoDB Dev to Deployment [https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/)
+          3. Node.js Express MongoDB Dev to Deployment [https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/)
