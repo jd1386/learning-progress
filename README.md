@@ -10,14 +10,12 @@
 2. **CSS**
 
    1. Learn CSS [https://www.codecademy.com/learn/learn-css](https://www.codecademy.com/learn/learn-css)
-
    2. Dive into Front-End CSS Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
-
    3. CSS Intro [https://www.pluralsight.com/courses/css-intro](https://www.pluralsight.com/courses/css-intro)
-
    4. 한 걸음 더 CSS: 코딩가나다 [https://programmers.co.kr/learn/courses/4521](https://programmers.co.kr/learn/courses/4521)
-
-         
+   5. Learn Responsive Design [https://www.codecademy.com/learn/learn-responsive-design](https://www.codecademy.com/learn/learn-responsive-design)
+   6. Responsive Web Design Fundamentals [https://www.udacity.com/course/responsive-web-design-fundamentals--ud893](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+   7. Learn Sass [https://www.codecademy.com/learn/learn-sass](https://www.codecademy.com/learn/learn-sass)
 
    
 
@@ -33,16 +31,17 @@
 4. **Javascript**
 
    1. ~~Learn Javascript [https://www.codecademy.com/learn/learn-javascript](https://www.codecademy.com/learn/learn-javascript)~~
-   2. Introduction to Javascript [https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
-   3. Dive into Front-End Javascript Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
-   4. Intro to Javascript [https://www.udacity.com/course/intro-to-javascript--ud803](https://www.udacity.com/course/intro-to-javascript--ud803)
-     5. Object-Oriented Javascript [https://www.udacity.com/course/object-oriented-javascript--ud711](https://www.udacity.com/course/object-oriented-javascript--ud711)
-     6. Javascript and the DOM [https://www.udacity.com/course/javascript-and-the-dom--ud117](https://www.udacity.com/course/javascript-and-the-dom--ud117)
-     7. ES6 Javascript Improved [https://www.udacity.com/course/es6-javascript-improved--ud356](https://www.udacity.com/course/es6-javascript-improved--ud356)
-     8. Javascript Testing [https://www.udacity.com/course/javascript-testing--ud549](https://www.udacity.com/course/javascript-testing--ud549)
-     9. Javascript Design Patterns [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)
-     10. Modern Javascript [https://tylermcginnis.com/courses/modern-javascript/](https://tylermcginnis.com/courses/modern-javascript/)
-     11. Javascript.info [http://javascript.info/](http://javascript.info/)
+   2. ~~Intro to Javascript [https://www.udacity.com/course/intro-to-javascript--ud803](https://www.udacity.com/course/intro-to-javascript--ud803)~~
+   3. Introduction to Javascript [https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+   4. Dive into Front-End Javascript Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
+   5. Javascript and the DOM [https://www.udacity.com/course/javascript-and-the-dom--ud117](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+     6. Object-Oriented Javascript [https://www.udacity.com/course/object-oriented-javascript--ud711](https://www.udacity.com/course/object-oriented-javascript--ud711)
+     7. Javascript and the DOM [https://www.udacity.com/course/javascript-and-the-dom--ud117](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+     8. ES6 Javascript Improved [https://www.udacity.com/course/es6-javascript-improved--ud356](https://www.udacity.com/course/es6-javascript-improved--ud356)
+     9. Javascript Testing [https://www.udacity.com/course/javascript-testing--ud549](https://www.udacity.com/course/javascript-testing--ud549)
+     10. Javascript Design Patterns [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)
+     11. Modern Javascript [https://tylermcginnis.com/courses/modern-javascript/](https://tylermcginnis.com/courses/modern-javascript/)
+     12. Javascript.info [http://javascript.info/](http://javascript.info/)
 
    
 
@@ -77,3 +76,13 @@
        2. Build Web APIs from Scratch [https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch](https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch)
 
             3. Node.js Express MongoDB Dev to Deployment [https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/)
+
+8. **Database**
+
+      1. Learn Node-SQLite [https://www.codecademy.com/learn/learn-node-sqlite](https://www.codecademy.com/learn/learn-node-sqlite)
+      2. Learn SQL [https://www.codecademy.com/learn/learn-sql](https://www.codecademy.com/learn/learn-sql)
+      3. SQL: Table Transformation [https://www.codecademy.com/learn/sql-table-transformation](https://www.codecademy.com/learn/sql-table-transformation)
+
+9. **Others**
+
+      1. Deploy a (Jekyll) Website [https://www.codecademy.com/learn/deploy-a-website](https://www.codecademy.com/learn/deploy-a-website)
