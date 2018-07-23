@@ -42,6 +42,7 @@
      10. Javascript Design Patterns [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)
      11. Modern Javascript [https://tylermcginnis.com/courses/modern-javascript/](https://tylermcginnis.com/courses/modern-javascript/)
      12. Javascript.info [http://javascript.info/](http://javascript.info/)
+     13. You Don't Know JS [https://github.com/jd1386/You-Dont-Know-JS](https://github.com/jd1386/You-Dont-Know-JS)
 
    
 
