@@ -9,13 +9,13 @@
 
 2. **CSS**
 
-   1. Learn CSS [https://www.codecademy.com/learn/learn-css](https://www.codecademy.com/learn/learn-css)
-   2. Dive into Front-End CSS Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
-   3. CSS Intro [https://www.pluralsight.com/courses/css-intro](https://www.pluralsight.com/courses/css-intro)
-   4. 한 걸음 더 CSS: 코딩가나다 [https://programmers.co.kr/learn/courses/4521](https://programmers.co.kr/learn/courses/4521)
-   5. Learn Responsive Design [https://www.codecademy.com/learn/learn-responsive-design](https://www.codecademy.com/learn/learn-responsive-design)
-   6. Responsive Web Design Fundamentals [https://www.udacity.com/course/responsive-web-design-fundamentals--ud893](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
-   7. Learn Sass [https://www.codecademy.com/learn/learn-sass](https://www.codecademy.com/learn/learn-sass)
+     1. Learn CSS [https://www.codecademy.com/learn/learn-css](https://www.codecademy.com/learn/learn-css)
+     2. Dive into Front-End CSS Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
+     3. CSS Intro [https://www.pluralsight.com/courses/css-intro](https://www.pluralsight.com/courses/css-intro)
+     4. 한 걸음 더 CSS: 코딩가나다 [https://programmers.co.kr/learn/courses/4521](https://programmers.co.kr/learn/courses/4521)
+     5. Learn Responsive Design [https://www.codecademy.com/learn/learn-responsive-design](https://www.codecademy.com/learn/learn-responsive-design)
+     6. Responsive Web Design Fundamentals [https://www.udacity.com/course/responsive-web-design-fundamentals--ud893](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+     7. Learn Sass [https://www.codecademy.com/learn/learn-sass](https://www.codecademy.com/learn/learn-sass)
 
    
 
@@ -36,13 +36,15 @@
    4. Dive into Front-End Javascript Part [https://repl.it/student/classrooms/20705](https://repl.it/student/classrooms/20705)
    5. Javascript and the DOM [https://www.udacity.com/course/javascript-and-the-dom--ud117](https://www.udacity.com/course/javascript-and-the-dom--ud117)
      6. Object-Oriented Javascript [https://www.udacity.com/course/object-oriented-javascript--ud711](https://www.udacity.com/course/object-oriented-javascript--ud711)
-     7. Javascript and the DOM [https://www.udacity.com/course/javascript-and-the-dom--ud117](https://www.udacity.com/course/javascript-and-the-dom--ud117)
-     8. ES6 Javascript Improved [https://www.udacity.com/course/es6-javascript-improved--ud356](https://www.udacity.com/course/es6-javascript-improved--ud356)
-     9. Javascript Testing [https://www.udacity.com/course/javascript-testing--ud549](https://www.udacity.com/course/javascript-testing--ud549)
-     10. Javascript Design Patterns [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)
-     11. Modern Javascript [https://tylermcginnis.com/courses/modern-javascript/](https://tylermcginnis.com/courses/modern-javascript/)
-     12. Javascript.info [http://javascript.info/](http://javascript.info/)
-     13. You Don't Know JS [https://github.com/jd1386/You-Dont-Know-JS](https://github.com/jd1386/You-Dont-Know-JS)
+     7. ~~Asynchronous JavaScript Requests [https://classroom.udacity.com/courses/ud109](https://classroom.udacity.com/courses/ud109)~~
+     8. Javascript Promises [https://www.udacity.com/course/javascript-promises--ud898](https://www.udacity.com/course/javascript-promises--ud898)
+     9. ES6 Javascript Improved [https://www.udacity.com/course/es6-javascript-improved--ud356](https://www.udacity.com/course/es6-javascript-improved--ud356)
+     10. FrontendMasters: Javascript [https://frontendmasters.com/learn/javascript/](https://frontendmasters.com/learn/javascript/)
+     11. Javascript Testing [https://www.udacity.com/course/javascript-testing--ud549](https://www.udacity.com/course/javascript-testing--ud549)
+     12. Javascript Design Patterns [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)
+     13. Modern Javascript [https://tylermcginnis.com/courses/modern-javascript/](https://tylermcginnis.com/courses/modern-javascript/)
+     14. Javascript.info [http://javascript.info/](http://javascript.info/)
+     15. You Don't Know JS [https://github.com/jd1386/You-Dont-Know-JS](https://github.com/jd1386/You-Dont-Know-JS)
 
    
 
